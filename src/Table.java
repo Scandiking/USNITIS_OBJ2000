@@ -4,7 +4,7 @@ public class Table {
     private int tableNumber;
     private int capacity;
 
-    // Constructor
+    // Constructorr
     public Table(int tableNumber, int capacity) {
         this.tableNumber = tableNumber;
         this.capacity = capacity;
